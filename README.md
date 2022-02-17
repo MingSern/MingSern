@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/Sunn"><img src="https://api.daily.dev/devcards/67b11f6f039b4b20a2b6131b566de988.png?r=sg6" width="400" alt="Yeo Ming Sern's Dev Card"/></a>
+<a href="https://app.daily.dev/Sunn"><img src="https://api.daily.dev/devcards/67b11f6f039b4b20a2b6131b566de988.png?r=sg6" width="200" alt="Yeo Ming Sern's Dev Card"/></a>
 <!--
 **MingSern/MingSern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
